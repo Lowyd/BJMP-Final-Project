@@ -1,0 +1,4 @@
+/app/config.local.php
+/.idea/
+/.vscode/
+*.log
